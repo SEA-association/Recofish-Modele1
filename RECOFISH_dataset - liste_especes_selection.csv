@@ -1,0 +1,103 @@
+ID,nom_scientifique,nom_commun,
+55,Chelon labrosus,Le mulet lippu,371
+56,Oedalechilus labeo,Le mulet labeon,377
+62,Atherina boyeri,Le joel,246
+81,Pseudocaranx dentex,La carangue dentue,409
+85,Trachinotus ovatus,La palomine,352
+89,Seriola dumerili,La grande seriole,286
+98,Dicentrarchus labrax,Le bar commun,603
+101,Sphyraena viridensis,La bécune bouche jaune,309
+119,Belone belone,L’orphie,362
+175,Oblada melanurus,L’oblade,922
+176,Diplodus sargus,Le sar commun,1359
+177,Diplodus puntazzo,Le sar à museau pointu,554
+179,Diplodus vulgaris,Le sar à tête noire,1623
+180,Diplodus annularis,Le sparaillon,382
+183,Diplodus cervinus,Le sar à grosses lèvres,367
+190,Sparus auratus,La dorade royale,772
+191,Spondyliosoma cantharus,La canthare,340
+193,Dentex dentex,Le denté commun,462
+199,Lithognathus mormyrus,Le marbré,529
+200,Sarpa salpa,La saupe,1164
+201,Boops boops,La bogue,555
+216,Labrus bergylta,La vielle,338
+217,Labrus merula,Le merle,360
+219,Labrus mixtus,La coquette,367
+220,Symphodus tinca,Le crénilabre tanche,1160
+221,Symphodus roissali,Le crénilabre à 5 taches,341
+224,Symphodus melops,Le crénilabre de melops,407
+225,Symphodus ocellatus,Le crénilabre ocellé,305
+227,Symphodus cinereus,Le crénilabre cendré,390
+228,Symphodus mediterraneus,Le crénilabre méditerranéen,379
+229,Symphodus rostratus,Le sublet,327
+235,Ctenolabrus rupestris,Le cténolabre,403
+238,Thalassoma pavo,La girelle-paon,1686
+239,Coris julis,La girelle,1251
+240,Xyrichtys novacula,Le rason,339
+241,Sparisoma cretense,Le poisson-perroquet,894
+243,Siganus luridus,Le poisson lapin à queue tronquée,438
+244,Siganus rivulatus,Le poisson lapin à ventre strié,353
+248,Chromis chromis,La castagnole,1384
+258,Anthias anthias,Le barbier commun,329
+260,Serranus scriba,Le serran ecriture,1223
+261,Serranus cabrilla,Le serran -chevrette,693
+263,Epinephelus marginatus,Le mérou brun,793
+266,Epinephelus costae,La badèche,300
+272,Apogon imberbis,L’apogon commun,559
+277,Sciaena umbra,Le corb,304
+286,Phycis phycis,La mostelle de roche,331
+293,Gadus morhua,La morue,400
+308,Gasterosteus aculeatus,L’épinoche,537
+310,Balistes capriscus,Le baliste commun,394
+335,Aidablennius sphynx,La blennie sphynx,449
+336,Parablennius gattorugine,La blennie gattorugine,838
+338,Parablennius sanguinolentus,La blennie palmicorne,420
+339,Parablennius rouxi,La blennie de roux,300
+340,Parablennius pilicornis,La blennie pilicorne,592
+342,Parablennius incognitus,La blennie diabolo,351
+343,Parablennius zvonimiri,La blennie de Zvonimir,356
+347,Coryphoblennius galerita,La blennie coiffée,311
+349,Lipophrys pholis,Le mordocet,582
+352,Microlipophrys canevae,La blennie de Caneva,289
+355,Salaria pavo,La blennie paon,464
+357,Scorpaena maderensis,La rascasse de Madère,386
+358,Scorpaena porcus,La rascasse brune,434
+360,Scorpaena notata,La petite rascasse rouge,385
+362,Scorpaena scrofa,Le chapon,426
+369,Taurulus bubalis,Le chabot buffle,335
+378,Cottus gobio,Le chabot commun,389
+388,Gobius paganellus,Le gobie paganel,574
+390,Gobius cobitis,Le gobie à grosse tête,609
+391,Gobius niger,Le gobie noir,891
+394,Gobius cruentatus,Le gobie à bouche rouge,350
+396,Gobius geniporus,Le gobie svelte,305
+398,Gobius fallax,Le gobie de sarato,295
+400,Gobius xanthocephalus,Le gobie à tête jaune,331
+437,Pomatoschistus microps,Le gobie tacheté,345
+438,Pomatoschistus marmoratus,Le gobie marbré,313
+439,Pomatoschistus pictus,Le gobie varié,310
+450,Pomatoschistus flavescens,Le gobie nageur,304
+453,Mullus surmuletus,Le rouget-barbet de roche,1205
+454,Mullus barbatus,Le rouget-barbet de vase,330
+459,Chelidonichthys lastoviza,Le grondin camard,304
+460,Chelidonichthys lucerna,Le grondin-perlon,500
+469,Callionymus lyra,Le dragonnet lyre,374
+475,Synodus saurus,Le poisson-lézard rayé,283
+480,Trachinus draco,La grande vive,335
+487,Tripterygion delaisi,Le triptérygion jaune,670
+488,Tripterygion tripteronotum,Le tripterygion rouge,722
+489,Tripterygion melanurus,Le tryptérigion nain,432
+494,Conger conger,Le congre,392
+501,Anguilla anguilla,L’anguille,349
+504,Muraena helena,La murène commune,755
+525,Pholis gunnellus,La gonnelle,393
+532,Platichthys flesus,Le flet,406
+543,Bothus podas,Le rombou,531
+553,Solea solea,La sole commune,375
+584,Hippocampus guttulatus,L’hippocampe moucheté,586
+586,Hippocampus histrix,L’hippocampe à ramules,782
+587,Hippocampus hippocampus,L’hippocampe à nez court,429
+588,Syngnathus acus,Le syngnathe aiguille,305
+591,Syngnathus typhle,Le siphonostome atlantique,281
+598,Nerophis lumbriciformis,Le nérophis lombricoïde,259
+,,,52261
